@@ -43,7 +43,7 @@
               "outputHashing": "all",
               "sourceMap": false,
               "extractCss": true,
-              "baseHref": "/angular-minesweeper/",
+              "baseHref": "/",
               "namedChunks": true,
               "aot": true,
               "extractLicenses": true,
